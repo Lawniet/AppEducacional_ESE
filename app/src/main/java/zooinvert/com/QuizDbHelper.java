@@ -44,20 +44,6 @@ public class QuizDbHelper extends SQLiteOpenHelper {
         db.execSQL("DROP TABLE IF EXISTS " + TabelaQuestao.NOME_TABELA);
         onCreate(db);
     }
-    /*
-6. Subfilo que possui organismos com carbonato de cálcio no exoesqueleto:
-a. Chelicerata;
-b. Hexapoda;
-c. Crustacea;
-d. Myriapoda.
-Resposta: c
-
-7. As pernas e asas dos insetos estão inseridas no:
-a. Cefalotórax;
-b. Tórax;
-c. Abdome;
-d. Tórax e abdome.
-Resposta: b*/
     private void preencheTabelaQuestoes()
     {
         Questoes q1 = new Questoes("1. Dentre os Subfilos de artrópodes abaixo relacionados, assinale a alternativa dos que possuem indivíduos com cefalotórax e abdome:",
