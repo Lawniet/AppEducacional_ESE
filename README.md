@@ -7,9 +7,10 @@ Trabalho apresentado ao Professor Antonio Justiniano de Moraes Neto, como requis
 
 Foi realizada uma pesquisa-ação sob orientação do [professor Dr. Antonio Justiniano de Moraes Neto](https://www.escavador.com/sobre/5744648/antonio-justiniano-de-moraes-neto) e co-orientação da [professora Dra. Luciane Modenez Saldivar Xavier](https://www.escavador.com/sobre/504438/luciane-modenez-saldivar-xavier), cujo objetivo é realizar uma avaliação do software educacional de Quiz do conteúdo Zoologia dos Invertebrados,  para o ensino sobre o filo Artrópodes. 
 
-Com o objetivo de desenvolver o software educacional acima, eu e o também graduando [Luiz Felipe da Silva Azevedo](https://github.com/AkiraHayato) desenvolvendo um software educativo para plataformas Android. No proceso de desenvolvimento utilizamos uma abordagem híbrida de engenharia de software com foco no cliente (modelo incremental + Scrum + metodologias hibrídas SWED). Além disso houve uma vasta exploração dos recursos de produção de software, desde o planejamento até a prototipação e implantação do App.
+Com o objetivo de desenvolver o software educacional acima, eu e o também graduando [Luiz Felipe da Silva Azevedo](https://github.com/AkiraHayato) iniciamos o processo de engenharia para um  App de plataformas Android. No proceso de desenvolvimento utilizamos uma abordagem híbrida de engenharia de software com foco no cliente (modelo incremental + Scrum + metodologias hibrídas SWED). Além disso houve uma vasta exploração dos recursos de produção de software, desde o planejamento, prototipação até a implantação do App (Desenvolvido de forma nativa: Android/Java).
 
 # Resultados e discusão
+
 Para maiores detalhes sobre o projeto segue o link da sala de aula do Google Classroom com a versão finalizada do Aplicativo e suas diretrizes:
 [Projeto de Engenharia de Software Educativo](https://classroom.google.com/u/1/c/MzcyNDY3NjcyNDVa)
 
