@@ -12,7 +12,7 @@ Com o objetivo de desenvolver o software educacional acima, eu e o também gradu
 # Resultados e discusão
 
 Para maiores detalhes sobre o projeto segue o link da sala de aula do Google Classroom com a versão finalizada do Aplicativo e suas diretrizes:
-[Projeto de Engenharia de Software Educativo](https://classroom.google.com/u/1/c/MzcyNDY3NjcyNDVa)
+[Projeto de Engenharia de Software Educativo](https://classroom.google.com/u/1/c/MzcyNDY3NjcyNDVa).
 
 # Referências 
 
