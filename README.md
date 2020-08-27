@@ -17,10 +17,17 @@ Para maiores detalhes sobre o projeto segue o link da sala de aula do Google Cla
 # Referências 
 
 [Alguns Princípios para Situações de Engenharia de Softwares Educativos.](https://www.revistas.ufg.br/interacao/article/view/6540)
+
 [Analisando Processos de Desenvolvimento de Software Educativo a partir de uma Revisão Sistemática de Literatura.](http://ria.net.br/index.php/ria/article/view/137)
+
 [Metodologia Híbrida de Desenvolvimento Centrado no Utilizador aplicada ao Software Educativo.](http://www.scielo.mec.pt/scielo.php?script=sci_abstract&pid=S1646-98952010000200002&lng=en&nrm=iso)
+
 [Árvore de Características de Software Educativo: Uma Proposta para Elicitação de Requisitos pelo Usuário.](http://www.br-ie.org/pub/index.php/sbie/article/view/1517)
+
 [Elaboração e Gestão de Projetos Educacionais.](http://nead.uesc.br/arquivos/pedagogia/projetos_educacionais/modulo_projetos_educacionais.pdf)
+
 [Investigando o uso de gamificação para aumentar o engajamento em sistemas colaborativos](https://pdfs.semanticscholar.org/343c/42a7eb5dd56e7c4f75940e893f3d562aef51.pdf)
+
 [Gamificação e avaliação do engajamento dos estudantes em uma disciplina técnica de curso de graduação.](http://br-ie.org/pub/index.php/sbie/article/view/6717)
+
 [Material produzido na disciplina: Engenharia de Software Educativo](https://drive.google.com/drive/folders/16vo3ZGWSb40eJgCcATiuvLNF62XJncqS)
