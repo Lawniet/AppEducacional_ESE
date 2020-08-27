@@ -5,7 +5,7 @@ Trabalho apresentado ao Professor Antonio Justiniano de Moraes Neto, como requis
 
 # Condução do desenvolvimento
 
-Foi realizada uma pesquisa-ação sob orientação do professor Dr. Antonio Justiniano de Moraes Neto e co-orientação da professora Dra. Luciane Modenez Saldivar Xavier, cujo objetivo é realizar uma avaliação do software educacional de Quiz do conteúdo Zoologia dos Invertebrados,  para o ensino sobre o filo Artrópodes. 
+Foi realizada uma pesquisa-ação sob orientação do [professor Dr. Antonio Justiniano de Moraes Neto](https://www.escavador.com/sobre/5744648/antonio-justiniano-de-moraes-neto) e co-orientação da [professora Dra. Luciane Modenez Saldivar Xavier](https://www.escavador.com/sobre/504438/luciane-modenez-saldivar-xavier), cujo objetivo é realizar uma avaliação do software educacional de Quiz do conteúdo Zoologia dos Invertebrados,  para o ensino sobre o filo Artrópodes. 
 
 Com o objetivo de desenvolver o software educacional acima, eu e o também graduando [Luiz Felipe](https://github.com/AkiraHayato) desenvolvendo um software educativo para plataformas Android. No proceso de desenvolvimento utilizamos uma abordagem híbrida de engenharia de software com foco no cliente (modelo incremental + Scrum + metodologias hibrídas SWED). Além disso houve uma vasta exploração dos recursos de produção de software, desde o planejamento até a prototipação e implantação do App.
 
